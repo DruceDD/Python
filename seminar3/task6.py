@@ -6,8 +6,8 @@
 # Выходные данные
 # 4
 
-sp = [1, 5, 2, 2, 2, 4]
-print(sp)
+# sp = [1, 5, 2, 2, 2, 4]
+# print(sp)
 # count = 0
 #
 # for i in range(len(sp)):
